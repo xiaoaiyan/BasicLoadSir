@@ -47,7 +47,11 @@ LoadSir的使用，只需要简单的三步
 ### 添加依赖
 
 ```groovy
-compile 'com.kingja.loadsir:loadsir:1.3.8'
+//add the JitPack repository to your build file
+maven { url 'https://jitpack.io' }
+
+//add the dependency
+implementation 'com.github.xiaoaiyan:BasicLoadSir:1.0.0-release'
 ```
 
 ### 第一步：配置
