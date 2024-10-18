@@ -1,0 +1,4 @@
+# https://github.com/jitpack/jitpack.io/issues/4474
+# 很重要很重要很重要
+jdk:
+  - openjdk17
